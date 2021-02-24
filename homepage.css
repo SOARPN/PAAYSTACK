@@ -1,0 +1,20 @@
+body {
+    background-color: #f1fef4;
+}
+
+/* .navbar-brand{
+    width: 200px;
+} */
+
+svg {
+    height: 22px;
+}
+
+.btn-md{
+    background-color: #3bb75e;
+    outline: none !important;
+}
+
+li:hover{
+    color: #0ba4db;
+}
