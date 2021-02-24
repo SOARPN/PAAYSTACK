@@ -1,12 +1,12 @@
-body {
-    background-color: #f1fef4;
+ body {
+    background-color: #f1fef4 !important;
 }
 
 /* .navbar-brand{
     width: 200px;
 } */
 
-svg {
+ svg {
     height: 22px;
 }
 
@@ -17,4 +17,25 @@ svg {
 
 li:hover{
     color: #0ba4db;
+}
+
+.content-text{
+    max-width: 650px !important;
+    width:100% !important;
+    font-size: x-large;
+    font-family: 'Archivo Black', sans-serif;
+    padding-left: 3.5em !important;
+    padding-top: 7em;
+}  
+
+.content-subtext{
+    font-family: 'Archivo', sans-serif;
+    font-size: 19px;
+    font-weight:normal;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+.content-btn {
+    font-family: 'Archivo', sans-serif;
 }
